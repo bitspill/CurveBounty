@@ -1,3 +1,7 @@
+#CurveBounty
+
+Goal and all parameters are hardcoded as of now. If this is on the right path things can be improved.
+
 #Sample Output
 
 Searching for `83402281777707715381485212681368749158073214888176003645002923212220704930560`
